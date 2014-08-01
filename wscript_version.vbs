@@ -1,0 +1,1 @@
+msgbox "Your current version of Windows Script Host is: " & vbcrlf & wscript.version,0,"Windows Script Host Current Version"
